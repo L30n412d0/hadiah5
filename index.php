@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Leonardo Patrick Tansie 52019024 Teknik Informatika 2019";
